@@ -1,0 +1,4 @@
+org\acme\model\Customer.class
+org\acme\service\CustomerService.class
+org\acme\controller\CustomerController.class
+META-INF\panache-archive.marker
