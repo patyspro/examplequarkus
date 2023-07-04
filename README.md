@@ -1,2 +1,2 @@
-# examplequarkus
-Example in quarkus with jab and H2
+# CRUD IN QUARKUS
+Example in quarkus with Java and H2
